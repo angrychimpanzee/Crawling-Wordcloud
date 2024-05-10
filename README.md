@@ -18,3 +18,4 @@
 
 ![메인화면](https://github.com/angrychimpanzee/Crawling-Wordcloud/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-05-10%20211349.png)
 ![크롤링화면](https://github.com/angrychimpanzee/Crawling-Wordcloud/blob/main/Dialog%202024-05-10%20%EC%98%A4%ED%9B%84%209_09_27.png)
+![워드클라우드](https://github.com/angrychimpanzee/Crawling-Wordcloud/blob/main/Dialog%202024-05-10%20%EC%98%A4%ED%9B%84%209_12_08.png)
