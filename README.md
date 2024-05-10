@@ -15,3 +15,5 @@
 10. wordcloud      1.9.3
 
 ------
+
+![메인화면](https://github.com/angrychimpanzee/Crawling-Wordcloud/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-05-10%20211349.png)
